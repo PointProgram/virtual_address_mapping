@@ -1,4 +1,4 @@
-\<h1>Mapping from a virtual to a physical address\</h1>
+<h1>Mapping from a virtual to a physical address\</h1>
 
 
 ## General info
