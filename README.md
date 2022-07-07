@@ -18,7 +18,11 @@ Project is created with:
 
 	
 ## Setup
-To run this project, install CodeBlocks or similar IDE with complilers that support MingW64 features, so that \<windows.h> and \<conio.h> libraries could be launched. Then git clone and run a program with the following commands:
+git clone and run a program with the the makefile:
+
+<code>
+$ make
+</code>
 
 ## Input data
 
