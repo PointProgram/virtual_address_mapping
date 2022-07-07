@@ -1,0 +1,83 @@
+1A 00 0A 
+MOV R0, R10
+1B 10 00 10 0C 7A 
+MOV [0x0000027A], R0
+03 
+Error caused due to unidentified element 03
+
+00 
+Error caused due to unidentified element 00
+
+0A 
+Error caused due to unidentified element 0A
+
+03 
+Error caused due to unidentified element 03
+
+04 
+Error caused due to unidentified element 04
+
+01 
+Error caused due to unidentified element 01
+
+02 
+Error caused due to unidentified element 02
+
+00 
+Error caused due to unidentified element 00
+
+00 
+Error caused due to unidentified element 00
+
+00 
+Error caused due to unidentified element 00
+
+0F 
+Error caused due to unidentified element 0F
+
+20 
+Error caused due to unidentified element 20
+
+03 
+Error caused due to unidentified element 03
+
+04 
+Error caused due to unidentified element 04
+
+22 
+Error caused due to unidentified element 22
+
+06 
+Error caused due to unidentified element 06
+
+00 
+Error caused due to unidentified element 00
+
+20 
+Error caused due to unidentified element 20
+
+0A 
+Error caused due to unidentified element 0A
+
+6C 
+Error caused due to unidentified element 6C
+
+95 
+Error caused due to unidentified element 95
+
+00 
+Error caused due to unidentified element 00
+
+08 
+Error caused due to unidentified element 08
+
+04 
+Error caused due to unidentified element 04
+
+0E 
+Error caused due to unidentified element 0E
+
+80 03 04 
+CMP R3, R4
+1C 13 34 03 
+MOV R3, 13315
