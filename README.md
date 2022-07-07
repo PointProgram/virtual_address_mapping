@@ -6,9 +6,9 @@ Reading a sequence of commands (programs) from a file and replacing virtual addr
 
 ## Main components
 
-1. The module for reading a table of pages/segments from a CSV file and creating an internal representation of the corresponding table (or tables);
-2. A module with the implementation of the functions of reading, analyzing and changing commands from a binary file, which replaces virtual addresses in the read commands with physical ones;
-3. Testing module containing tests of the implemented program.
+The module for reading a table of pages/segments from a CSV file and creating an internal representation of the corresponding table (or tables);
+1. A module with the implementation of the functions of reading, analyzing and changing commands from a binary file, which replaces virtual addresses in the read commands with physical ones;
+2. Testing module containing tests of the implemented program.
 
 
 ## Technologies
